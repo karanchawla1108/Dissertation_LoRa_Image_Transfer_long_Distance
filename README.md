@@ -162,11 +162,3 @@ Press ENTER when Pi B is ready.
 - **Base SF7 System:** [Dissertation_LoRa_Image_Transfer](https://github.com/karanchawla1108/Dissertation_LoRa_Image_Transfer)
 - **VAE Model Training:** [Autoencoder-IoT-LoRa-Dissertation](https://github.com/karanchawla1108/Autoencoder-IoT-LoRa-Dissertation)
 
----
-
-## Author
-
-**Karan Chawla**
-COM6016M Dissertation
-York St John University
-2026
